@@ -1,0 +1,17 @@
+{
+  "name": "andre-mp3-generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sox-audio": "^0.3.0"
+  },
+  "dependencies": {
+    "spex": "^2.2.0"
+  }
+}
