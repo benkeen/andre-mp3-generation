@@ -7,3 +7,7 @@ combinations of 2 tracks, 3 tracks - up to 7 tracks.
 For a group size of 6, this comes out to 56 combinations.
 
 Uses `sox` under the hood for the mp3 file manipulation.
+
+## Video + Audio combination 
+
+Not done yet. Maybe look at: https://github.com/fluent-ffmpeg/node-fluent-ffmpeg
